@@ -1,3 +1,3 @@
 # CQAEL
-《toward entity linking for community question answering》
+《Entity Linking in Community Question Answering via Leveraging Meta-Data》
   
